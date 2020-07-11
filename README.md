@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Computer Science student from Chile. I like Python and so far falling in love with Rust a lot. I'm interested in System Programming, Scripting & Game Hacking. I do some dataviz from time to time.
+
 <!--
 **etra0/etra0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
