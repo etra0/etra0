@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 Chilean Programmer. I love messing with compiled languages (Rust, C++, C) and x86 assembly sometimes.
+Interested in Operative Systems, Game Hacking and analog photography.
 
 - 🔭 I’m currently working on freecamera projects
-- 📫 How to reach me: twitter.com/etra0 -- sebastian.aedo29@gmail.com
+- 📫 How to reach me: https://twitter.com/etra0 — sebastian.aedo29@gmail.com
 
 <!--
 **etra0/etra0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
