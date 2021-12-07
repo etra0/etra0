@@ -3,7 +3,7 @@
 Chilean Programmer. I love messing with compiled languages (Rust, C++, C) and x86 assembly sometimes.
 Interested in Operative Systems, Game Hacking and analog photography.
 
-- 🔭 I’m currently working on freecamera projects
+- 🔭 I’m currently working at Codeweavers.
 - 📫 How to reach me: https://twitter.com/etra0 — sebastian.aedo29@gmail.com
 
 <!--
