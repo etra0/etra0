@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 Chilean Programmer. I love messing with compiled languages (Rust, C++, C) and x86 assembly sometimes.
-Interested in Operative Systems, Game Hacking and analog photography.
+Interested in Operative Systems, Game Hacking and photography.
 
-- 🔭 I’m currently working at CodeWeavers.
 - 📫 How to reach me: https://twitter.com/etra0 — sebastian.aedo29@gmail.com
+- 🔭 I’m currently working on open-source projects!
 
 <!--
 **etra0/etra0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
