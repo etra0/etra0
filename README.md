@@ -3,7 +3,7 @@
 Chilean Programmer. I love messing with compiled languages (Rust, C++, C) and x86 assembly sometimes.
 Interested in Operative Systems, Game Hacking and photography.
 
-- 📫 How to reach me: https://bsky.app/profile/etra0.lat — me@etra0.lat
+- 📫 How to reach me: https://bsky.app/profile/etra0.cl — me@etra0.cl
 
 <!--
 **etra0/etra0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
